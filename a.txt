@@ -2,3 +2,4 @@ yellow hat
 orange shoe
 blue shirt
 pink pants
+red glove
